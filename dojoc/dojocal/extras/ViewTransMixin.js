@@ -22,7 +22,7 @@ dojo.require('dojoc.dojocal._base.common');
 
 (function () { // closure for local variables
 
-var djc = dojoc.dojoca;
+var djc = dojoc.dojocal;
 
 /*
 	dojoc.dojocal.ViewTransMixin
